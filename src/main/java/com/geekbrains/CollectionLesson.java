@@ -45,4 +45,5 @@ public class CollectionLesson {
             System.out.println(hash.getKey() + " встречается " + hash.getValue() + " раз");
         }
     }
+
 }
